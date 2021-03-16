@@ -29,6 +29,10 @@ button:active {
   border-color: #270041;
 }
 
+button:focus {
+  outline: 0;
+}
+
 .flat {
   background-color: transparent;
   color: #3a0061;
